@@ -2,6 +2,6 @@
 
 This is our game token mechanism.
 
-# mainToken
+### mainToken
 
-# governanceToken
+### governanceToken
