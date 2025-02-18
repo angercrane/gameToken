@@ -12,5 +12,6 @@ contract mainToken {
         tokenName = "mainToken";
         tokenSymbol = "main";
         tokenDecimals = 9;
+        tokenTotalSupply = 1000;
     }
 }
